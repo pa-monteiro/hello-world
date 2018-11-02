@@ -1,0 +1,59 @@
+body { font-family: Verdana, Geneva, Tahoma, sans-serif; }
+h1 { font-size: 18px; 
+      color: rgb(36, 51, 185); }
+h2 { color: black;
+    font-size: 16px;
+    font-weight: bolder;  }
+p   {   font-family: sans-serif;
+        font-size: small; }
+#lista { font-style: italic; 
+            font-family: Verdana, Geneva, Tahoma, sans-serif; 
+            font-size: 14px; }
+em { font-weight: bold;
+    font-style: normal; }
+h3 { color: rgb(241, 118, 2); 
+    font-size: 14px; }
+#garantia {font-style: italic; 
+            border-color: black;
+            background-color: #a7cece;
+            border-style: dashed;
+            border-color: white;
+            border-width: 1px;
+            padding: 25px;
+            padding-left: 80px;
+            margin: 30px;
+            margin-right: 250px;
+            background-image: url(figuras/background.gif);
+            background-repeat: no-repeat;
+            background-position: top left;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            line-height: 1.9em;
+            color: #444444; }
+#elixires { background-image: url(figuras/cocktail.gif);
+            background-repeat: repeat-x;
+            background-position: top center;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #007e7e;
+            padding: 20px; 
+            width: 200px;
+            line-height: 1;
+            text-align: center;
+            padding-right: 20px;
+            padding-left: 20px;
+            padding-bottom: 20px;
+            margin-left: 20px;
+            float: right;
+         }
+#elixires h2 { color: black;}
+#elixires h3 { color: #d12c47;}
+#rodape { font-size: 50%;
+        text-align: center;
+        line-height: normal;
+        margin-top: 30px;}
+.cd { font-style: italic;}
+.artista { font-weight: bold;}
+#elixires a:link { color: #007e7e;}
+#elixires a:visited { color: #333333;}
+#elixires a:hover { color: #0d5353;
+                    background: #f88396;}
